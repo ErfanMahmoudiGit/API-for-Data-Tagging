@@ -1,0 +1,37 @@
+# Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Environment and dependency directories
+env/
+venv/
+*.env
+
+# Database files
+*.sqlite3
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Docker
+*.log
+*.pid
+*.seed
+*.pid
+Dockerfile
+
+# Datasets and Reports
+datasets/
+reports/
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
